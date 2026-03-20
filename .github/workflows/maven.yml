@@ -34,3 +34,4 @@ jobs:
          mvn deploy
          echo "App Name: $APP_NAME"
          echo "Stage Name: $STAGE_NAME"
+
